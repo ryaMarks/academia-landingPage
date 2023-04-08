@@ -20,34 +20,33 @@ function Reasons() {
             <img src={image4} alt="" />
         </div>
         <div className="right-r">
-            <span>Some reasons</span>
+            <span>Alguns motivos de por que</span>
 
             <div>
-                <span className='stroke-text'>Why</span>
-                <span>chose us ?</span>
+                <span>nos escolher ?</span>
             </div>
             <div className='details-r'>
                 <div>
                     <img src={tick} alt="" />
-                    <span>over 140 + expert coachs</span>
+                    <span>Mais de 140 professores especializados</span>
                 </div>
                 <div>
                     <img src={tick} alt="" />
-                    <span>trains smarter and faster than before</span>
+                    <span>Treine mais inteligente e mais rápido que antes</span>
                 </div>
                 <div>
                     <img src={tick} alt="" />
-                    <span>free program for new member</span>
+                    <span>Programa gratuito para novos membros</span>
                 </div>
                 <div>
                     <img src={tick} alt="" />
-                    <span>reliable partness</span>
+                    <span>Programa de acompanhamento de membros</span>
                 </div>
             </div>
             <span style={{
                 color: 'var(--gray)', 
                 fontWeight: 'normal',
-            }}>our partners</span>
+            }}>Nossos parceiros</span>
 
             <div className="partners">
                 <img src={nb} alt="" />

@@ -8,18 +8,18 @@ function Join() {
         <div className="left-j">
             <hr />
             <div>
-                <span className="stroke-text">read to</span>
-                <span>level up</span>
+                <span className="stroke-text">Quer</span>
+                <span>evoluir</span>
             </div>
             <div>
-                <span>your body</span>
-                <span className="stroke-text">with us ?</span>
+                <span>seu corpo</span>
+                <span className="stroke-text">conoscp ?</span>
             </div>
         </div>
         <div className='right-j'>
             <form action="" className='email-container'>
-                <input type="email" name='user_email' placeholder='Enter your email' />
-                <button className='btn btn-j'>Join Now</button>
+                <input type="email" name='user_email' placeholder='Digite seu email' />
+                <button className='btn btn-j'>Entrar</button>
             </form>
         </div>
     </div>

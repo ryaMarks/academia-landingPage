@@ -31,15 +31,15 @@ function Hero() {
             {/* HERO HEADING */}
             <div className="hero-text">
               <div>
-                <span className='stroke-text'>Shape </span>
-                <span>You</span>
+                <span className='stroke-text'>Construa </span>
+                <span>seu</span>
               </div>
               <div>
-                <span>Ideal Body</span>
+                <span>corpo ideal</span>
               </div>
               <div>
                 <span>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut totam consequatur consequuntur eos reprehenderit dolores soluta dolore!
+                  Alcançe o corpo que você deseja, com ajuda de profissionais qualificados. Tudo para impulsionar voce.
                 </span>
               </div>
             </div>
@@ -66,8 +66,8 @@ function Hero() {
 
             {/* Hero Buttons */}
             <div className="hero-buttons">
-              <buttons className="btn">Get Started</buttons>
-              <buttons className="btn"> Learn More</buttons>
+              <buttons className="btn">Iniciar</buttons>
+              <buttons className="btn"> Leia mais</buttons>
             </div>
 
             {/* Hero Images */}
@@ -90,7 +90,7 @@ function Hero() {
             >
               <img src={Calories} alt="" />
                 <div>
-                  <span>Calories Burned</span>
+                  <span>Calorias Queimadas</span>
                   <span>220kcal</span>
                 </div>
             </motion.div>

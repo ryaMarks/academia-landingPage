@@ -38,25 +38,25 @@ function Header() {
                 to='programs'
                 span={true}
                 smooth={true}
-              >Programs</Link></li>
+              >Programas</Link></li>
               <li><Link
                 onClick={() => setMenuOpened(false)}
                 to='reasons'
                 span={true}
                 smooth={true}
-              >Why us</Link></li>
+              >Sobre nós</Link></li>
               <li><Link
                 onClick={() => setMenuOpened(false)}
                 to='Plans'
                 span={true}
                 smooth={true}
-              >Plans</Link></li>
+              >Planos</Link></li>
               <li><Link
                 onClick={() => setMenuOpened(false)}
                 to='Testimonials'
                 span={true}
                 smooth={true}
-              >Testimonials</Link></li>
+              >Depoimentos</Link></li>
           </ul>
         }
     </div>

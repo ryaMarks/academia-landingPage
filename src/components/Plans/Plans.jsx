@@ -9,9 +9,9 @@ function Plans() {
         <div className="blur plans-blur-1"></div>
         <div className="blur plans-blur-2"></div>
         <div className="programs-header" style={{gap: '2rem'}}>
-            <span className='stroke-text'>ready to start</span>
-            <span>you journey</span>
-            <span className='stroke-text'>now withus</span>
+            <span className='stroke-text'>inicie</span>
+            <span>sua jornada</span>
+            <span className='stroke-text'>conosco</span>
         </div>
 
         {/* Plans Card */}
@@ -31,9 +31,9 @@ function Plans() {
                     </div>
 
                     <div>
-                        <span>shee more benefits-></span>
+                        <span>Veja mais benefícios-></span>
                     </div>
-                    <button className='btn'>Join Now</button>
+                    <button className='btn'>Entrar</button>
                 </div>
             ))}
         </div>

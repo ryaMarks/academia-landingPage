@@ -14,9 +14,9 @@ function Testimonials() {
     return(
     <div className="Testimonials" id='Testimonials'>
         <div className="left-t">
-            <span>Testimonials</span>
-            <span className="stroke-text">What they</span>
-            <span>say about us</span>
+            <span>Depoimentos</span>
+            <span className="stroke-text">oque eles</span>
+            <span>dizem sobre nós</span>
             <motion.span
                 key={selected}
                 initial={{opacity:0, x:-100}}
